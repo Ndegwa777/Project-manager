@@ -96,8 +96,7 @@ Real-Time Communication
 Use the Chatbox within each project for real-time communication with team members.
 Collaborators can also leave Comments on specific tasks for detailed discussions.
 
-**Contributing**
-We welcome contributions! To get started:
+
 
 **Fork the repository.**
 Create a new branch for your feature or bug fix.
